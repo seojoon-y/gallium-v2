@@ -1,5 +1,8 @@
-# Gallium
+# Gallium V2
 Gallium is a keyboard layout and takes inspiration from nerps and tries to improve on it in comfort and speed. Now on Monkeytype! 
+
+
+
 
 ![gallium](https://user-images.githubusercontent.com/105921721/226998970-72aa1bd3-ce83-43c3-aeef-cf7b407babf4.png)
 Angle Mod version of Gallium:
